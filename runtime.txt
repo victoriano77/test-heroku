@@ -1,1 +1,1 @@
-python-3.10.0 on all supported stacks
+python-3.10.0 
